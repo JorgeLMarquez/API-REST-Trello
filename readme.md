@@ -1,6 +1,15 @@
 # 6 API REST Trello
 
 1. Se abre una cuenta de Trello en https://trello.com/
+  
+
+
+
+        
+            
+        
+
+    
 
 2. Se necesita una API Rest de Trello la cual contiene un api key y un token que puedes solicitar aquí: https://trello.com/app-key
   - Ve al portal
